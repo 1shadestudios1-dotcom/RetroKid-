@@ -1,2 +1,10 @@
-# RetroKid-
-Lets play
+## RetroKid-
+Web app url : https://1shadestudios1-dotcom.github.io/RetroKid-
+
+This project was created by CrossUI No-Code App Builder: https://crossui.com/RADGithub
+
+Based on template: https://linb.github.io/CrossUI_Assets/assets/projects/Simple/xui_project_tpl_Empty
+
+Click [here](https://crossui.com/RADGithub/#!from=github&owner=1shadestudios1-dotcom&repo=RetroKid-) to edit this web app in CrossUI No-Code App Builder
+
+<i>Powered by [CrossUI](https://crossui.com)</i>
